@@ -14,7 +14,7 @@ import java.util.Scanner;
  */
 public class Main {
     public static void main(String[] args) {
-        ArrayList<Cat> cats = new ArrayList<Cat>();
+        ArrayList<Cat> cats = new ArrayList<>();
         Cat c1 = new Cat("Den");
         Cat c2 = new Cat("Vang");
         cats.add(c1);
