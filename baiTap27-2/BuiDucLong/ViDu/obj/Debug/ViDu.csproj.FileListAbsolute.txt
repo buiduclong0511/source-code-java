@@ -1,0 +1,16 @@
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\bin\Debug\ViDu.exe.config
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\bin\Debug\ViDu.exe
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\bin\Debug\ViDu.pdb
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.csprojAssemblyReference.cache
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.Form1.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.Properties.Resources.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.csproj.GenerateResource.cache
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.csproj.CoreCompileInputs.cache
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.exe
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.pdb
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.formGiaiPtBac2.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.formChonSach.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.formQuanLyNhanVien.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.formCapNhatThanhVien.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.formTreeView.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\ViDu\obj\Debug\ViDu.formListView.resources

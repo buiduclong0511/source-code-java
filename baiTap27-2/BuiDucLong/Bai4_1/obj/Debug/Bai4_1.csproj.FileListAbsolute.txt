@@ -1,0 +1,10 @@
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\bin\Debug\Bai4_1.exe.config
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\bin\Debug\Bai4_1.exe
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\bin\Debug\Bai4_1.pdb
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\obj\Debug\Bai4_1.Form1.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\obj\Debug\Bai4_1.Properties.Resources.resources
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\obj\Debug\Bai4_1.csproj.GenerateResource.cache
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\obj\Debug\Bai4_1.csproj.CoreCompileInputs.cache
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\obj\Debug\Bai4_1.exe
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\obj\Debug\Bai4_1.pdb
+G:\HocTap\window\window\baiTap27-2\BuiDucLong\Bai4_1\obj\Debug\Bai4_1.csprojAssemblyReference.cache
