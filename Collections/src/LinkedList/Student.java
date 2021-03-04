@@ -26,6 +26,10 @@ public class Student implements Comparable<Student>{
         return "Student{" + "name=" + name + ", age=" + age + '}';
     }
 
+    public int getAge() {
+        return age;
+    }
+
    
 
     

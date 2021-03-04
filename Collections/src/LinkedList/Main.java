@@ -7,6 +7,7 @@ package LinkedList;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.Iterator;
 import java.util.LinkedList;
 
@@ -30,10 +31,30 @@ public class Main {
         
         Collections.sort(students);
         
-        System.out.println("danh sach sau khi sap xep:");
+        System.out.println("danh sach sau khi sap xep tuoi tang dan:");
         Iterator<Student> studentIte = students.iterator();
         while(studentIte.hasNext()) {
             System.out.println(studentIte.next());
         }
+        
+        Collections.sort(students, new Comparator<Student>(){
+            @Override
+            public int compare(Student o1, Student o2) {
+                if (o2.getAge() > o1.getAge()) {
+                    return 1;
+                } else if (o2.getAge() < o1.getAge()) {
+                    return -1;
+                } else {
+                    return 0;
+                }
+            }
+        
+        });
+        
+        System.out.println("danh sach sau khi sap xep tuoi giam dan:");
+        
+        students.forEach(student -> {
+            System.out.println(student);
+        });
     }
 }
