@@ -5,6 +5,8 @@
  */
 package LinkedList;
 
+import java.util.Objects;
+
 /**
  *
  * @author TieuLong
@@ -12,6 +14,36 @@ package LinkedList;
 public class Student implements Comparable<Student>{
     private String name;
     private int age;
+    
+    
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 41 * hash + Objects.hashCode(this.name);
+        hash = 41 * hash + this.age;
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Student other = (Student) obj;
+        if (this.age != other.age) {
+            return false;
+        }
+        if (!Objects.equals(this.name, other.name)) {
+            return false;
+        }
+        return true;
+    }
 
     public Student() {
     }

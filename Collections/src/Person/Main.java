@@ -8,13 +8,14 @@ package Person;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
+import java.util.Vector;
 
 /**
  *
  * @author BOSS
  */
 public class Main {
-    static ArrayList<Nguoi> list = new ArrayList<Nguoi>();
+    static Vector<Nguoi> list = new Vector<Nguoi>();
     
     static void nhapDS() {
         Nguoi p1 = new Nguoi("001", "Long", 20);
