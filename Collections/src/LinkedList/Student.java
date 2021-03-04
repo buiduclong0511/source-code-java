@@ -15,14 +15,6 @@ public class Student implements Comparable<Student>{
     private String name;
     private int age;
     
-    
-    @Override
-    public int hashCode() {
-        int hash = 7;
-        hash = 41 * hash + Objects.hashCode(this.name);
-        hash = 41 * hash + this.age;
-        return hash;
-    }
 
     @Override
     public boolean equals(Object obj) {
@@ -75,5 +67,6 @@ public class Student implements Comparable<Student>{
         } else {
             return 0;
         }
+//        return age - o.age;
     }
 }
