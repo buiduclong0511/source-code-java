@@ -15,18 +15,21 @@ import java.util.LinkedList;
  */
 public class Main {
     public static void main(String[] args) {
+        
+        
+        
+        
         LinkedList<Integer> list = new LinkedList<>();
+        
+        ArrayList list2 = new ArrayList<>();
+        
         list.add(1);
         list.add(2);
-        list.add(3);
+        
         
         list.forEach(item -> {
-            System.out.print(item + " ");
+            System.out.println(item);
         });
-        System.out.println("");
-        Iterator<Integer> listIte = list.iterator();
-        while(listIte.hasNext()) {
-            System.out.print(listIte.next() + " ");
-        }
+        
     }
 }
