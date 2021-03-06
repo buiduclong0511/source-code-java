@@ -1,0 +1,11 @@
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\bin\Debug\PTB2.exe.config
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\bin\Debug\PTB2.exe
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\bin\Debug\PTB2.pdb
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\obj\Debug\PTB2.csprojAssemblyReference.cache
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\obj\Debug\PTB2.formGiaiPTB2.resources
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\obj\Debug\PTB2.Properties.Resources.resources
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\obj\Debug\PTB2.csproj.GenerateResource.cache
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\obj\Debug\PTB2.csproj.CoreCompileInputs.cache
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\obj\Debug\PTB2.exe
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\obj\Debug\PTB2.pdb
+E:\HocTap\window\baiTap6-3\BuiDucLong\PTB2\obj\Debug\PTB2.formMenu.resources
